@@ -1,0 +1,4 @@
+﻿timestamp,serial,lot_id,station,operator,meas_voltage,meas_current,result,fail_code
+11/1/2025 8:00,S1101-0001,L1101TEST,TEST,Ava,3.62,1.19,PASS,
+11/1/2025 8:01,S1101-0002,L1101TEST,TEST,Ben,3.58,1.27,FAIL,VOLT_LOW
+11/1/2025 8:02,S1101-0003,L1101TEST,TEST,Chen,3.66,1.18,PASS,
